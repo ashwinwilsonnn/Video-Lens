@@ -1,0 +1,17 @@
+{
+  "name": "video-lens-marketplace",
+  "owner": {
+    "name": "ashwinwilsonnn"
+  },
+  "plugins": [
+    {
+      "name": "video-lens",
+      "source": "./video-lens-main",
+      "description": "Turn a YouTube URL into a polished HTML summary report, plus a gallery for browsing saved reports.",
+      "version": "5.0.0",
+      "author": {
+        "name": "kar2phi"
+      }
+    }
+  ]
+}
