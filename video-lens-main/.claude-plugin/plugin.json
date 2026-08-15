@@ -1,0 +1,9 @@
+{
+  "name": "video-lens",
+  "description": "Turn a YouTube URL into a polished HTML summary report with an executive summary, key points, and a timestamped outline. Includes a gallery skill for browsing saved reports.",
+  "version": "5.0.0",
+  "author": {
+    "name": "kar2phi"
+  },
+  "license": "MIT"
+}
